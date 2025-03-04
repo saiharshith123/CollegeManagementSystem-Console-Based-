@@ -1,4 +1,4 @@
-## CollegeManagementSystem [Console Based Project]
+### CollegeManagementSystem [Console Based Project]
 
 # Overview
 The CollegeManagementSystem is a console-based Python application that allows users to manage colleges, students, and teachers. The system provides functionality to create colleges, add students and teachers, and display their details.
