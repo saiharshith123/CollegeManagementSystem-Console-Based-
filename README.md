@@ -16,7 +16,7 @@ The CollegeManagementSystem is a console-based Python application that allows us
 
 ## Installation
 -  Clone the repository:
-  git clone https://github.com/yourusername/CollegeManagementSystem.git
+  git clone https://github.com/saiharshith123/CollegeManagementSystem.git
 -  Navigate to the project directory:
   cd CollegeManagementSystem
 -  Run the script:
